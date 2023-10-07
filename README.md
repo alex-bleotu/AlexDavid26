@@ -18,5 +18,5 @@ Welcome to my portfolio. This repository showcases a diverse range of projects, 
 
 1. [ParkFlow](https://github.com/DpitBv2/parkflow) - ParkFlow is a smart urban mobility solution, optimizing parking spaces allocation and traffic flow for a seamless city experience. 
 2. [EletroHawk](https://github.com/adollarmight/ElectroHAWK) - ElectroHawk is a A1 drone with the addition of face detection on its camera.
-3. [Learnify](https://github.com/AlexDavid26/Learnify) - The app fosters healthy competition among children as they learn standard subjects in an engaging environment.
+3. [Learnify](https://github.com/alex-bleotu/Learnify) - The app fosters healthy competition among children as they learn standard subjects in an engaging environment.
 4. [FarmCheck](https://github.com/in-th3-l00p/farmcheck-remastered) - FarmCheck is an intuitive agricultural management platform streamlining farm operations for efficiency and productivity.
